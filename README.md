@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Glenn</h1>
+<h3 align="center">iOS developer wannabe 🍀</h3>
 
-<!--
-**iluxsm/iluxsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40iluxsm&style=social&url=https%3A%2F%2Ftwitter.com%2Filuxsm)
+</br>
 
-Here are some ideas to get you started:
+### 👨‍💻 About me
+- 🌱 I’m currently learning Swift & iOS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about related to iOS. Let's think about it together!
+
+- ⚡ Fun fact, I'm interested in User eXperience and chicken lover.🤭
+</br>
+
+### ⚙️ Tech Info
+<code><img height="30" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></code>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iluxsm&show_icons=true&locale=en" alt="iluxsm" /></p>
+
