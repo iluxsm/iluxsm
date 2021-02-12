@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Glenn</h1>
 <h3 align="center">iOS developer wannabe 🍀</h3>
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Be%20frineds%20with%20%40iluxsm&style=social&url=https%3A%2F%2Ftwitter.com%2Filuxsm)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Be%20frineds%20with%20%40iluxsm&style=social&url=https%3A%2F%2Ftwitter.com%2Filuxsm)](https://twitter.com/iluxsm)
 </br>
 
 ### 👨‍💻 About me
