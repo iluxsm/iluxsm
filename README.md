@@ -14,7 +14,7 @@
 - ⚡ Fun fact, I'm interested in User eXperience and chicken lover.🤭
 </br>
 
-### ⚙️ Tech Info
+### ⚙️ Tech Stack
 <code><img height="30" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></code>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iluxsm&show_icons=true&locale=en" alt="iluxsm" /></p>
 
