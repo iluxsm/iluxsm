@@ -6,7 +6,9 @@
 
 - 💬 Ask me about related to iOS. Let's think about it together!
 
-- ⚡ Fun fact, I'm interested in User eXperience and chicken lover.🤭
+- ⚡ Fun fact, I'm chicken & beer lover. 🍗🍻
+
+- 🌍 I always think about a11y, i18n and ux. 👫
 </br>
 
 ### ⚙️ Tech Stack
