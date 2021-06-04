@@ -2,13 +2,13 @@
 <h3 align="center">iOS developer wannabe 🍀</h3>
 
 ### 👨‍💻 About me
-- 🌱 I’m currently learning Swift & iOS.
+- 🌱 I’m currently studying Swift & iOS.
 
 - 💬 Ask me about related to iOS. Let's think about it together!
 
 - ⚡ Fun fact, I'm chicken & beer lover. 🍗🍻
 
-- 🌍 I always think about a11y, i18n and ux. 👫
+- 🌍 I enjoy thinking about a11y, i18n and ux. 👫
 </br>
 
 ### ⚙️ Tech Stack
