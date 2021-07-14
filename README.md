@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact, I'm chicken & beer lover. 🍗🍻
 
-- 🌍 I enjoy thinking about a11y, i18n and ux. 👫
+- 🌍 I'm into thinking about a11y, i18n and ux. 👫
 </br>
 
 ### ⚙️ Tech Stack
